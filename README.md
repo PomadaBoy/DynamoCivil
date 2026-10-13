@@ -19,4 +19,7 @@ Update:
 
     git -C "D:\GitHub\DynamoCivil" pull
 
+Or double-click `Update.bat` in the repo folder. For a desktop icon:
+right-click `Update.bat` > Send to > Desktop (create shortcut).
+
 In Civil 3D, point Dynamo Player at D:\GitHub\DynamoCivil.
